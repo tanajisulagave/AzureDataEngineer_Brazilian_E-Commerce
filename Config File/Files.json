@@ -1,0 +1,47 @@
+[
+    {
+        "p_rel_url" : "tanajisulagave/AzureDataEngineer_Brazilian_E-Commerce/refs/heads/main/DataFiles/olist_customers_dataset.csv",
+        "p_sink_folder" : "customers",
+        "p_sink_file" : "customers.csv"
+    },
+    {
+        "p_rel_url" : "tanajisulagave/AzureDataEngineer_Brazilian_E-Commerce/refs/heads/main/DataFiles/olist_geolocation_dataset.csv",
+        "p_sink_folder" : "geolocation",
+        "p_sink_file" : "geolocation.csv"
+    },
+    {
+        "p_rel_url" : "tanajisulagave/AzureDataEngineer_Brazilian_E-Commerce/refs/heads/main/DataFiles/olist_order_items_dataset.csv",
+        "p_sink_folder" : "order_items",
+        "p_sink_file" : "order_items.csv"
+    },
+    {
+        "p_rel_url" : "tanajisulagave/AzureDataEngineer_Brazilian_E-Commerce/refs/heads/main/DataFiles/olist_order_payments_dataset.csv",
+        "p_sink_folder" : "order_payments",
+        "p_sink_file" : "order_payments.csv"
+    },
+    {
+        "p_rel_url" : "tanajisulagave/AzureDataEngineer_Brazilian_E-Commerce/refs/heads/main/DataFiles/olist_order_reviews_dataset.csv",
+        "p_sink_folder" : "order_reviews",
+        "p_sink_file" : "order_reviews.csv"
+    },
+    {
+        "p_rel_url" : "tanajisulagave/AzureDataEngineer_Brazilian_E-Commerce/refs/heads/main/DataFiles/olist_orders_dataset.csv",
+        "p_sink_folder" : "orders",
+        "p_sink_file":"orders.csv"
+    },
+    {
+        "p_rel_url" : "tanajisulagave/AzureDataEngineer_Brazilian_E-Commerce/refs/heads/main/DataFiles/olist_products_dataset.csv",
+        "p_sink_folder" : "products",
+        "p_sink_file" : "products.csv"
+    },
+    {
+        "p_rel_url" : "tanajisulagave/AzureDataEngineer_Brazilian_E-Commerce/refs/heads/main/DataFiles/olist_sellers_dataset.csv",
+        "p_sink_folder" : "sellers",
+        "p_sink_file" : "sellers.cvsv"
+    },
+    {
+        "p_rel_url" : "tanajisulagave/AzureDataEngineer_Brazilian_E-Commerce/refs/heads/main/DataFiles/product_category_name_translation.csv",
+        "p_sink_folder" : "product_category",
+        "p_sink_file" : "product_category.csv"
+    }
+]
