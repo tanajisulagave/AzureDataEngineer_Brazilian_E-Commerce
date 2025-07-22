@@ -1,4 +1,5 @@
 
+<img width="1660" height="705" alt="Brazil-E-Commers" src="https://github.com/user-attachments/assets/bd09ff26-ad81-4858-868e-e98b1fb1c22e" />
 
 
 <img width="1321" height="742" alt="image" src="https://github.com/user-attachments/assets/9146074f-08e9-476d-8c35-36112d72f23e" />
