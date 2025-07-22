@@ -1,9 +1,9 @@
-🔧 Overview of the Architecture
+**🔧 Overview of the Architecture**
 This is a classic modern data platform using Azure services and following the Medallion Architecture (Bronze → Silver → Gold), integrated with reporting in Power BI.
 
-🗂️ Project Components
+**🗂️ Project Components**
 
-1. Source Control (GitHub)
+***1. Source Control (GitHub)***
 Purpose: Stores raw data files and possibly orchestration scripts, configuration files, or source metadata.
 Usage: Acts as the starting point from where data is ingested using ADF.
 2. ADF (Azure Data Factory)
