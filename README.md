@@ -3,7 +3,7 @@ This is a classic modern data platform using Azure services and following the Me
 
 **🗂️ Project Components**
 
-***1. Source Control (GitHub)***
+***1. Source Control (GitHub)*** \
 Purpose: Stores raw data files and possibly orchestration scripts, configuration files, or source metadata.
 Usage: Acts as the starting point from where data is ingested using ADF.
 2. ADF (Azure Data Factory)
